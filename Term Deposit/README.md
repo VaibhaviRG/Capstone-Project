@@ -19,6 +19,7 @@ We evaluated multiple models:
 |  SVM  | 80   |
 |  KNN  |  86  |
 |  Naive Bayes  | 75   |
+
 The Decision Tree model achieved the highest accuracy of 90%.
 
 ## Conclusion

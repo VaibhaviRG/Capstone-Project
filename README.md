@@ -11,6 +11,7 @@ Develop a machine learning model to accurately predict sales, improving decision
   - Utilize historical sales data from 1,115 stores, considering factors like promotions, holidays, and store locations.
   - Data Sources:
         1. Salesdata.csv: Over 1 million rows of historical sales data.
+    
         2. Store.csv: Detailed information about each of the 1,115 stores.
     
 ## Methodology:

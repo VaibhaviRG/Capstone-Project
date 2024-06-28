@@ -27,6 +27,6 @@ Develop a machine learning model to accurately predict sales, improving decision
   - Conclusion and Recommendations: Provide insights and recommendations for XYZ based on the model results.
     
 ## Key Findings:
-  - Random Forest emerged as the best performing model, achieving 91.5% accuracy and generalization.
+  - **Random Forest** emerged as the best performing model, achieving **91.5%** accuracy and generalization.
   - Key features impacting sales include: Customers, CompetitionDistance, StoreType_d, and Promo.
   - The model highlights the need for strategic customer engagement, competitive store locations, targeted marketing efforts, and well-planned promotions.
